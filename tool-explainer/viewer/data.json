@@ -1,0 +1,14 @@
+[
+  {
+    "id": "mnxpd649u1vc",
+    "name": "tecnobot",
+    "cat": "electronica",
+    "icon": "🔧",
+    "color": "#c8f03d",
+    "desc": "hola soy tecnobot",
+    "baseUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+    "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mnxpd649u1vc.glb",
+    "hasGlb": true,
+    "created": 1776115592505
+  }
+]
