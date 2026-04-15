@@ -1,0 +1,14 @@
+[
+  {
+    "id": "mno4sqi81989",
+    "name": "ROBOT",
+    "cat": "ELECTRÓNICA",
+    "icon": "🔧⚙️",
+    "color": "#c8f03d",
+    "desc": "ESTO ES UN ROBOT",
+    "baseUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+    "created": 1775536851248,
+    "hasGlb": true,
+    "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mno4sqi81989.glb"
+  }
+]
