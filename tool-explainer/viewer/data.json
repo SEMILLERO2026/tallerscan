@@ -22,5 +22,17 @@
     "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mnxolzkfz0u5.glb",
     "hasGlb": true,
     "created": 1776114324303
+  },
+  {
+    "id": "mo7nzho4xyqa",
+    "name": "Scaner 3D",
+    "cat": "Diseño CAD",
+    "icon": "🔧",
+    "color": "#c8f03d",
+    "desc": "Esto es un Scaner 3D",
+    "baseUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+    "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mo7nzho4xyqa.glb",
+    "hasGlb": true,
+    "created": 1776717936436
   }
 ]
