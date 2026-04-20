@@ -34,5 +34,17 @@
     "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mo7nzho4xyqa.glb",
     "hasGlb": true,
     "created": 1776717936436
+  },
+  {
+    "id": "mo7odcxlonp7",
+    "name": "Laser",
+    "cat": "CNC",
+    "icon": "🔧",
+    "color": "#c8f03d",
+    "desc": "Esto es una cortadora laser",
+    "baseUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+    "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mo7odcxlonp7.glb",
+    "hasGlb": true,
+    "created": 1776718583481
   }
 ]
