@@ -39,8 +39,8 @@
       "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mo7nzho4xyqa.glb",
       "hasGlb": true,
       "created": 1776717936436,
-      "lineId": null,
-      "lineName": null
+      "lineId": "moroy345ol9j",
+      "lineName": "Ingeniería y Diseño"
     },
     {
       "id": "mo7odcxlonp7",
@@ -53,14 +53,21 @@
       "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mo7odcxlonp7.glb",
       "hasGlb": true,
       "created": 1776718583481,
-      "lineId": null,
-      "lineName": null
+      "lineId": "moroy345ol9j",
+      "lineName": "Ingeniería y Diseño"
     }
   ],
   "lines": [
     {
       "id": "moroqax7n1yw",
-      "name": "Linea Profe Cesar",
+      "name": "Tecnologías Virtuales",
+      "icon": "🏭",
+      "color": "#3de0f0",
+      "desc": ""
+    },
+    {
+      "id": "moroy345ol9j",
+      "name": "Ingeniería y Diseño",
       "icon": "🏭",
       "color": "#3de0f0",
       "desc": ""
