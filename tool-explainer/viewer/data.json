@@ -1,0 +1,19 @@
+{
+  "machines": [
+    {
+      "id": "mulyb19zao1k",
+      "name": "maquina",
+      "cat": "maquina",
+      "icon": "🔧",
+      "color": "#c8f03d",
+      "desc": "hola, esto es una maquina",
+      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/admin/",
+      "lineId": null,
+      "lineName": null,
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mulyb19zao1k.glb",
+      "hasGlb": true,
+      "created": 1790642491703
+    }
+  ],
+  "lines": []
+}
