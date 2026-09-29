@@ -13,6 +13,20 @@
       "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mulyb19zao1k.glb",
       "hasGlb": true,
       "created": 1790642491703
+    },
+    {
+      "id": "mulzaa326obl",
+      "name": "MAQUINA DOS",
+      "cat": "MAQUINA",
+      "icon": "🔧",
+      "color": "#c8f03d",
+      "desc": "ESTO ES UNA MÁQUINA",
+      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+      "lineId": null,
+      "lineName": null,
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mulzaa326obl.glb",
+      "hasGlb": true,
+      "created": 1790644136078
     }
   ],
   "lines": []
