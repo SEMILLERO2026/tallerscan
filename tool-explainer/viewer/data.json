@@ -1,0 +1,120 @@
+{
+  "machines": [
+    {
+      "cat": "MAQUINA",
+      "name": "MAQUINA DOS",
+      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+      "icon": "🔧",
+      "desc": "ESTO ES UNA MÁQUINA",
+      "created": 1790644136078,
+      "lineId": null,
+      "color": "#c8f03d",
+      "hasGlb": true,
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mulzaa326obl.glb",
+      "lineName": null,
+      "id": "mulzaa326obl"
+    },
+    {
+      "name": "MÁQUINA TRES",
+      "hasGlb": true,
+      "lineId": null,
+      "lineName": null,
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mulzn0oqkrsk.glb",
+      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+      "cat": "MÁQUINA",
+      "id": "mulzn0oqkrsk",
+      "color": "#c8f03d",
+      "icon": "🔧",
+      "desc": "ESTO ES UNA MÁQUINA",
+      "created": 1790644730426
+    }
+  ],
+  "lines": [
+    {
+      "name": "CIENCIAS",
+      "desc": "",
+      "icon": "🏭",
+      "color": "#3de0f0",
+      "id": "munh1f5v4jvy"
+    },
+    {
+      "id": "munh1wpi6o1b",
+      "desc": "",
+      "icon": "🏭",
+      "color": "#3de0f0",
+      "name": "TECNOLOGÍAS"
+    },
+    {
+      "id": "munhiqgld9b6",
+      "name": "Biotecnología Industrial",
+      "icon": "📁",
+      "color": "#3de0f0",
+      "desc": "",
+      "parentId": "munh1f5v4jvy"
+    },
+    {
+      "id": "munhj6rief7c",
+      "name": "Biotecnología Animal",
+      "icon": "📁",
+      "color": "#3de0f0",
+      "desc": "",
+      "parentId": "munh1f5v4jvy"
+    },
+    {
+      "id": "munhjmzq7vkh",
+      "name": "Biotecnología Vegetal",
+      "icon": "📁",
+      "color": "#3de0f0",
+      "desc": "",
+      "parentId": "munh1f5v4jvy"
+    },
+    {
+      "id": "munhk4onhq3h",
+      "name": "STEAM Ciencias Básicas",
+      "icon": "📁",
+      "color": "#3de0f0",
+      "desc": "",
+      "parentId": "munh1f5v4jvy"
+    },
+    {
+      "id": "munhku9siwkc",
+      "name": "Nanotecnología y Telecomunicaciones",
+      "icon": "📁",
+      "color": "#3de0f0",
+      "desc": "",
+      "parentId": "munh1f5v4jvy"
+    },
+    {
+      "id": "munhlchtdjql",
+      "name": "Nanotecnología Fabricación",
+      "icon": "📁",
+      "color": "#3de0f0",
+      "desc": "",
+      "parentId": "munh1f5v4jvy"
+    },
+    {
+      "id": "munhm2uyr8zv",
+      "name": "Ingeniería y Diseño",
+      "icon": "📁",
+      "color": "#3de0f0",
+      "desc": "",
+      "parentId": "munh1wpi6o1b"
+    },
+    {
+      "id": "munhmir7nhlo",
+      "name": "Electrónica y Telecomunicaciones",
+      "icon": "📁",
+      "color": "#3de0f0",
+      "desc": "",
+      "parentId": "munh1wpi6o1b"
+    },
+    {
+      "id": "munhn5ok6ez7",
+      "name": "Tecnologías Virtuales",
+      "icon": "📁",
+      "color": "#3de0f0",
+      "desc": "",
+      "parentId": "munh1wpi6o1b"
+    }
+  ]
+}
