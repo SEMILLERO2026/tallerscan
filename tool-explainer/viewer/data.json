@@ -15,20 +15,6 @@
       "icon": "🔧"
     },
     {
-      "desc": "ESTO ES UNA MÁQUINA",
-      "lineName": null,
-      "lineId": null,
-      "color": "#c8f03d",
-      "icon": "🔧",
-      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mulzn0oqkrsk.glb",
-      "baseUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/index.html",
-      "name": "CALORIMETRO DE BARRIDO DIFERENCIAL DSC",
-      "hasGlb": true,
-      "id": "mulzn0oqkrsk",
-      "cat": "EQUIPO",
-      "created": 1790644730426
-    },
-    {
       "hasGlb": true,
       "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/muy8l73l0qux.glb",
       "name": "MOLINO DE RODILLOS",
@@ -41,20 +27,6 @@
       "lineId": "munhlchtdjql",
       "cat": "EQUIPO",
       "icon": "🔧"
-    },
-    {
-      "lineName": "CIENCIAS › Nanotecnología Caracterización",
-      "icon": "🔧",
-      "created": 1791404771497,
-      "hasGlb": true,
-      "cat": "EQUIPO",
-      "baseUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/index.html",
-      "id": "muyk5c4pk0x2",
-      "desc": "El microscopio electrónico de barrido (conocido como MEB o SEM, por sus siglas en inglés Scanning Electron Microscope) es un instrumento científico que utiliza un haz de electrones en lugar de luz visible para formar imágenes en alta resolución de la superficie de una muestra. \n\nCómo Funciona\n• Haz de electrones: Un cañón emite electrones que se aceleran y viajan por una columna al vacío.\n• Lentes electromagnéticas: Enfocan el haz de electrones en un punto muy fino sobre la muestra.\n• Interacción y señales: Cuando los electrones chocan con la muestra, se producen electrones secundarios, electrones retrodispersados y rayos X.\n• Detección: Los detectores recogen estas señales y una computadora las transforma en una imagen digital tridimensional y en escala de grises.\n\nCaracterísticas Principales\n\n• Gran aumento y resolución: Permite ampliar las imágenes miles de veces con detalles a nivel nanométrico.\n• Profundidad de campo: Ofrece un enfoque nítido en gran parte de la muestra, logrando una apariencia tridimensional.\n• Preparación de muestras: Requiere que las muestras sean conductoras, por lo que a menudo se recubren con una capa muy fina de oro o carbón.\n\nAplicaciones Comunes\n\n• Análisis de la morfología y topografía de materiales (metales, polímeros, cerámicas).\n• Estudio de microorganismos y estructuras biológicas.\n• Identificación de la composición química mediante análisis de rayos X (EDS/EDX).",
-      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/muyk5c4pk0x2.glb",
-      "name": "MICROSCOPIO DE BARRIDO ELECTRONICO",
-      "color": "#c8f03d",
-      "lineId": "munhku9siwkc"
     }
   ],
   "lines": [
