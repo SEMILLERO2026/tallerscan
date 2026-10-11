@@ -12,7 +12,7 @@
       "lineId": "munhku9siwkc",
       "hasGlb": true,
       "icon": "🔧",
-      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html"
+      "baseUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/index.html"
     },
     {
       "icon": "🔧",
@@ -26,12 +26,12 @@
       "id": "mulzn0oqkrsk",
       "desc": "ESTO ES UNA MÁQUINA",
       "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mulzn0oqkrsk.glb",
-      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html"
+      "baseUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/index.html"
     },
     {
       "color": "#c8f03d",
       "icon": "🔧",
-      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+      "baseUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/index.html",
       "cat": "EQUIPO",
       "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/muy8l73l0qux.glb",
       "name": "MOLINO DE RODILLOS",
@@ -54,7 +54,7 @@
       "icon": "🔧",
       "id": "muyk5c4pk0x2",
       "hasGlb": true,
-      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html"
+      "baseUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/index.html"
     }
   ],
   "lines": [
