@@ -1,145 +1,145 @@
 {
   "machines": [
     {
-      "cat": "EQUIPO",
-      "color": "#c8f03d",
-      "icon": "🔧",
-      "lineId": "munhku9siwkc",
-      "id": "mulzaa326obl",
-      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mulzaa326obl.glb",
-      "lineName": "CIENCIAS › Nanotecnología Caracterización",
       "desc": "Este es un molino de rodillos que se ubica en la Tecnoacademia Manizales",
-      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+      "cat": "EQUIPO",
       "name": "SPUTTERING",
+      "lineName": "CIENCIAS › Nanotecnología Caracterización",
+      "created": 1790644136078,
+      "id": "mulzaa326obl",
+      "color": "#c8f03d",
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mulzaa326obl.glb",
+      "lineId": "munhku9siwkc",
       "hasGlb": true,
-      "created": 1790644136078
+      "icon": "🔧",
+      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html"
     },
     {
-      "name": "CALORIMETRO DE BARRIDO DIFERENCIAL DSC",
-      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mulzn0oqkrsk.glb",
-      "lineId": null,
-      "desc": "ESTO ES UNA MÁQUINA",
-      "cat": "EQUIPO",
-      "lineName": null,
       "icon": "🔧",
-      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
       "hasGlb": true,
+      "cat": "EQUIPO",
       "created": 1790644730426,
+      "lineId": null,
+      "color": "#c8f03d",
+      "lineName": null,
+      "name": "CALORIMETRO DE BARRIDO DIFERENCIAL DSC",
       "id": "mulzn0oqkrsk",
-      "color": "#c8f03d"
+      "desc": "ESTO ES UNA MÁQUINA",
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mulzn0oqkrsk.glb",
+      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html"
     },
     {
       "color": "#c8f03d",
-      "lineId": "munhlchtdjql",
-      "id": "muy8l73l0qux",
-      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/muy8l73l0qux.glb",
       "icon": "🔧",
       "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
       "cat": "EQUIPO",
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/muy8l73l0qux.glb",
+      "name": "MOLINO DE RODILLOS",
       "hasGlb": true,
       "desc": "Este es un molino de rodillos que se ubica en la Tecnoacademia Manizales",
+      "lineId": "munhlchtdjql",
+      "lineName": "CIENCIAS › Nanotecnología Fabricación",
       "created": 1791385356081,
-      "name": "MOLINO DE RODILLOS",
-      "lineName": "CIENCIAS › Nanotecnología Fabricación"
+      "id": "muy8l73l0qux"
     },
     {
-      "cat": "EQUIPO",
-      "desc": "El microscopio electrónico de barrido (conocido como MEB o SEM, por sus siglas en inglés Scanning Electron Microscope) es un instrumento científico que utiliza un haz de electrones en lugar de luz visible para formar imágenes en alta resolución de la superficie de una muestra. \n\nCómo Funciona\n• Haz de electrones: Un cañón emite electrones que se aceleran y viajan por una columna al vacío.\n• Lentes electromagnéticas: Enfocan el haz de electrones en un punto muy fino sobre la muestra.\n• Interacción y señales: Cuando los electrones chocan con la muestra, se producen electrones secundarios, electrones retrodispersados y rayos X.\n• Detección: Los detectores recogen estas señales y una computadora las transforma en una imagen digital tridimensional y en escala de grises.\n\nCaracterísticas Principales\n\n• Gran aumento y resolución: Permite ampliar las imágenes miles de veces con detalles a nivel nanométrico.\n• Profundidad de campo: Ofrece un enfoque nítido en gran parte de la muestra, logrando una apariencia tridimensional.\n• Preparación de muestras: Requiere que las muestras sean conductoras, por lo que a menudo se recubren con una capa muy fina de oro o carbón.\n\nAplicaciones Comunes\n\n• Análisis de la morfología y topografía de materiales (metales, polímeros, cerámicas).\n• Estudio de microorganismos y estructuras biológicas.\n• Identificación de la composición química mediante análisis de rayos X (EDS/EDX).",
       "name": "MICROSCOPIO DE BARRIDO ELECTRONICO",
-      "created": 1791404771497,
-      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
-      "color": "#c8f03d",
-      "hasGlb": true,
-      "id": "muyk5c4pk0x2",
       "lineName": "CIENCIAS › Nanotecnología Caracterización",
-      "icon": "🔧",
+      "created": 1791404771497,
+      "desc": "El microscopio electrónico de barrido (conocido como MEB o SEM, por sus siglas en inglés Scanning Electron Microscope) es un instrumento científico que utiliza un haz de electrones en lugar de luz visible para formar imágenes en alta resolución de la superficie de una muestra. \n\nCómo Funciona\n• Haz de electrones: Un cañón emite electrones que se aceleran y viajan por una columna al vacío.\n• Lentes electromagnéticas: Enfocan el haz de electrones en un punto muy fino sobre la muestra.\n• Interacción y señales: Cuando los electrones chocan con la muestra, se producen electrones secundarios, electrones retrodispersados y rayos X.\n• Detección: Los detectores recogen estas señales y una computadora las transforma en una imagen digital tridimensional y en escala de grises.\n\nCaracterísticas Principales\n\n• Gran aumento y resolución: Permite ampliar las imágenes miles de veces con detalles a nivel nanométrico.\n• Profundidad de campo: Ofrece un enfoque nítido en gran parte de la muestra, logrando una apariencia tridimensional.\n• Preparación de muestras: Requiere que las muestras sean conductoras, por lo que a menudo se recubren con una capa muy fina de oro o carbón.\n\nAplicaciones Comunes\n\n• Análisis de la morfología y topografía de materiales (metales, polímeros, cerámicas).\n• Estudio de microorganismos y estructuras biológicas.\n• Identificación de la composición química mediante análisis de rayos X (EDS/EDX).",
+      "color": "#c8f03d",
+      "cat": "EQUIPO",
       "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/muyk5c4pk0x2.glb",
-      "lineId": "munhku9siwkc"
+      "lineId": "munhku9siwkc",
+      "icon": "🔧",
+      "id": "muyk5c4pk0x2",
+      "hasGlb": true,
+      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html"
     }
   ],
   "lines": [
     {
       "color": "#3de0f0",
-      "id": "munh1f5v4jvy",
       "name": "CIENCIAS",
       "icon": "🏭",
-      "desc": ""
+      "desc": "",
+      "id": "munh1f5v4jvy"
     },
     {
-      "desc": "",
-      "name": "TECNOLOGÍAS",
       "id": "munh1wpi6o1b",
       "icon": "🏭",
-      "color": "#3de0f0"
+      "name": "TECNOLOGÍAS",
+      "color": "#3de0f0",
+      "desc": ""
     },
     {
-      "parentId": "munh1f5v4jvy",
-      "desc": "",
+      "id": "munhiqgld9b6",
       "icon": "📁",
       "name": "Biotecnología Industrial",
-      "id": "munhiqgld9b6",
-      "color": "#3de0f0"
-    },
-    {
       "parentId": "munh1f5v4jvy",
-      "icon": "📁",
-      "name": "Biotecnología Animal",
       "color": "#3de0f0",
-      "desc": "",
-      "id": "munhj6rief7c"
+      "desc": ""
     },
     {
+      "name": "Biotecnología Animal",
       "icon": "📁",
-      "id": "munhjmzq7vkh",
+      "id": "munhj6rief7c",
+      "parentId": "munh1f5v4jvy",
       "color": "#3de0f0",
+      "desc": ""
+    },
+    {
+      "color": "#3de0f0",
+      "id": "munhjmzq7vkh",
+      "desc": "",
       "name": "Biotecnología Vegetal",
       "parentId": "munh1f5v4jvy",
-      "desc": ""
+      "icon": "📁"
     },
     {
       "id": "munhk4onhq3h",
       "color": "#3de0f0",
-      "parentId": "munh1f5v4jvy",
-      "name": "STEAM Ciencias Básicas",
       "icon": "📁",
-      "desc": ""
+      "name": "STEAM Ciencias Básicas",
+      "desc": "",
+      "parentId": "munh1f5v4jvy"
     },
     {
+      "id": "munhku9siwkc",
       "color": "#3de0f0",
       "icon": "📁",
       "name": "Nanotecnología Caracterización",
-      "id": "munhku9siwkc",
       "parentId": "munh1f5v4jvy",
       "desc": ""
     },
     {
-      "desc": "",
-      "icon": "📁",
-      "name": "Nanotecnología Fabricación",
       "parentId": "munh1f5v4jvy",
+      "color": "#3de0f0",
       "id": "munhlchtdjql",
-      "color": "#3de0f0"
+      "desc": "",
+      "icon": "📁",
+      "name": "Nanotecnología Fabricación"
     },
     {
       "color": "#3de0f0",
-      "id": "munhm2uyr8zv",
-      "desc": "",
+      "parentId": "munh1wpi6o1b",
       "name": "Ingeniería y Diseño",
-      "parentId": "munh1wpi6o1b",
-      "icon": "📁"
+      "icon": "📁",
+      "desc": "",
+      "id": "munhm2uyr8zv"
     },
     {
-      "name": "Electrónica y Telecomunicaciones",
-      "icon": "📁",
-      "id": "munhmir7nhlo",
-      "desc": "",
       "parentId": "munh1wpi6o1b",
-      "color": "#3de0f0"
+      "color": "#3de0f0",
+      "id": "munhmir7nhlo",
+      "icon": "📁",
+      "name": "Electrónica y Telecomunicaciones",
+      "desc": ""
     },
     {
       "color": "#3de0f0",
-      "icon": "📁",
       "name": "Tecnologías Virtuales",
+      "icon": "📁",
       "id": "munhn5ok6ez7",
       "desc": "",
       "parentId": "munh1wpi6o1b"
