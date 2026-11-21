@@ -1,32 +1,130 @@
 {
   "machines": [
     {
+      "created": 1790644136078,
+      "cat": "EQUIPO",
+      "desc": "El DSC mide con precisión la energía que absorbe o libera un material al cambiar su temperatura. Funciona como una \"huella digital térmica\" que permite identificar puntos de fusión, cristalización y estabilidad en los materiales.\n\n🌟 Aplicación Práctica con Enfoque STEAM\nCiencia y Tecnología: Análisis directo de polímeros, bioplásticos o fibras naturales de la región (como residuos agroindustriales de Caldas) para evaluar su comportamiento térmico.\n\nIngeniería y Matemáticas: Lectura de curvas, cálculo de picos endotérmicos/exotérmicos y selección fundamentada de materiales para prototipos.\n\nArte y Comunicación: Traducción de gráficos térmicos complejos en infografías y recursos visuales claros para ferias de ciencia.\n\n🚀 Impacto en los Jóvenes del Centro Sur de Caldas\nAprendizaje activo: Pasan de la teoría a la experimentación real con equipos de alta tecnología.\n\nResolución de problemas: Fomenta la investigación aplicada conectada con las necesidades ambientales y productivas de la región.\n\nVocación científica: Inspira tempranamente a las nuevas generaciones hacia la ingeniería de materiales y la mecatrónica.",
       "hasGlb": true,
       "id": "mulzaa326obl",
-      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mulzaa326obl.glb",
-      "name": "SPUTTERING",
-      "created": 1790644136078,
-      "lineName": "CIENCIAS › Nanotecnología Caracterización",
-      "color": "#c8f03d",
-      "cat": "EQUIPO",
-      "baseUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/index.html",
-      "desc": "Este es un molino de rodillos que se ubica en la Tecnoacademia Manizales",
+      "icon": "🔧",
       "lineId": "munhku9siwkc",
-      "icon": "🔧"
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mulzaa326obl.glb",
+      "lineName": "CIENCIAS › Nanotecnología Caracterización",
+      "name": "CALORIMETRO DE BARRIDO DIFERENCIAL DSC",
+      "baseUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+      "color": "#c8f03c"
+    },
+    {
+      "lineName": "CIENCIAS › Nanotecnología Fabricación",
+      "cat": "EQUIPO",
+      "id": "muy8l73l0qux",
+      "desc": "El molino de rodillos es un equipo que reduce el tamaño de partícula de un material pasándolo a presión entre dos o más cilindros que giran. Actúa como un \"prensador y triturador de precisión\" para obtener harinas, polvos finos o pastas homogéneas.\n\n🌟 Aplicación Práctica con Enfoque STEAM\nCiencia y Tecnología: Procesamiento de materias primas biológicas y residuos agrícolas de la región (como cisco de café, cacao o cascara de maracuyá) para crear nuevos materiales y bioplásticos.\n\nIngeniería y Matemáticas: Control de variables clave (distancia entre rodillos, velocidad de rotación y granulometría) para calcular la eficiencia del molienda y optimizar el tamaño de partícula.\n\nArte y Creatividad: Producción de pigmentos naturales y arcillas procesadas para el modelado, diseño y comunicación visual de prototipos.\n\n🚀 Impacto en los Jóvenes del Centro Sur de Caldas\nInnovación regional: Permite a los estudiantes transformar subproductos agroindustriales locales en insumos para proyectos de investigación.\n\nPensamiento de ingeniería: Experimentan el ciclo de manufactura desde la materia prima hasta la textura idónea para la producción.\n\nVocación técnica: Conecta a los adolescentes con procesos reales de la industria alimentaria, química y de materiales.",
+      "hasGlb": true,
+      "baseUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+      "lineId": "munhlchtdjql",
+      "icon": "🔧",
+      "created": 1791385356081,
+      "name": "MOLINO DE RODILLOS",
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/muy8l73l0qux.glb",
+      "color": "#c8f03c"
+    },
+    {
+      "lineName": "CIENCIAS › Biotecnología Industrial",
+      "icon": "🔧",
+      "cat": "EQUIPO",
+      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+      "hasGlb": true,
+      "desc": "El biorreactor es un recipiente controlado que proporciona las condiciones ideales (temperatura, pH, oxígeno y agitación) para cultivar células o microorganismos vivos. Funciona como una \"fábrica natural y viviente\" para producir bioproductos a partir de procesos biológicos.\n\n🌟 Aplicación Práctica con Enfoque STEAM\nCiencia y Tecnología: Cultivo de microorganismos o células para transformar residuos orgánicos de la región en bioplásticos, enzimas o biofertilizantes.\n\nIngeniería y Matemáticas: Monitoreo y automatización de variables críticas (sensores de pH y temperatura) y análisis de curvas de crecimiento microbiano.\n\nArte y Creatividad: Creación de infografías y narrativas visuales para explicar los bioprocesos y la bioeconomía en ferias de ciencia.\n\n🚀 Impacto en los Jóvenes del Centro Sur de Caldas\nBiotecnología aplicada: Conecta a los estudiantes con la vanguardia de la ciencia sostenible y la solución de retos ambientales locales.\n\nPensamiento sistémico: Aprenden a integrar la biología con la tecnología para controlar sistemas vivos complejos.\n\nVocación científica: Inspira tempranamente vocaciones hacia la biotecnología, la ingeniería ambiental y las ciencias agroindustriales.",
+      "lineId": "munhiqgld9b6",
+      "created": 1791853091440,
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mv5z2e0gr6nz.glb",
+      "name": "BIORREACTOR",
+      "id": "mv5z2e0gr6nz",
+      "color": "#3ca0c8"
     },
     {
       "hasGlb": true,
-      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/muy8l73l0qux.glb",
-      "name": "MOLINO DE RODILLOS",
-      "created": 1791385356081,
-      "color": "#c8f03d",
-      "desc": "Este es un molino de rodillos que se ubica en la Tecnoacademia Manizales",
-      "baseUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/index.html",
-      "lineName": "CIENCIAS › Nanotecnología Fabricación",
-      "id": "muy8l73l0qux",
-      "lineId": "munhlchtdjql",
+      "icon": "🔧",
+      "desc": "El generador de Van de Graaff es un dispositivo que acumula altas cargas de electricidad estática mediante una correa móvil. Funciona como una \"fuente de energía invisible\" que permite visualizar y experimentar con voltajes elevados de forma segura y controlada.\n\n🌟 Aplicación Práctica con Enfoque STEAM\nCiencia y Tecnología: Estudio experimental de la electricidad estática, las cargas eléctricas, la inducción y los campos eléctricos.\n\nIngeniería y Matemáticas: Análisis del voltaje acumulado, cálculo de distancias de descarga y diseño de protocolos de aislamiento y seguridad eléctrica.\n\nArte y Creatividad: Demostraciones visuales impactantes (como el cabello en pie o la repulsión de cintas) que transforman conceptos abstractos de física en experiencias visuales y atractivas.\n\n🚀 Impacto en los Jóvenes del Centro Sur de Caldas\nAprendizaje vivencial: Hace que la física de campos electromagnéticos sea tangible, divertida y fácil de recordar.\n\nCuriosidad científica: Despierta el asombro y motiva a los estudiantes a investigar el comportamiento de la energía.\n\nVocación técnica: Inspira tempranamente vocaciones hacia la física, la ingeniería eléctrica y las tecnologías aplicadas.",
+      "created": 1792114132007,
+      "lineId": "munhk4onhq3h",
+      "color": "#9dab36",
+      "lineName": "CIENCIAS › STEAM Ciencias Básicas",
       "cat": "EQUIPO",
-      "icon": "🔧"
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mvaahe7b31og.glb",
+      "id": "mvaahe7b31og",
+      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+      "name": "GENERADOR DE VAN DE GRAAFF"
+    },
+    {
+      "id": "mvaalhc9d98w",
+      "hasGlb": true,
+      "cat": "EQUIPO",
+      "lineId": "munhku9siwkc",
+      "lineName": "CIENCIAS › Nanotecnología Caracterización",
+      "desc": "El microscopio electrónico de barrido (MEV) utiliza un haz de electrones en lugar de luz para escanear la superficie de las muestras. Funciona como un \"ojo de ultraprecisión\" que revela detalles invisibles a escala nanométrica en imágenes tridimensionales de alta definición.\n\n🌟 Aplicación Práctica con Enfoque STEAM\nCiencia y Tecnología: Análisis morfológico profundo de materiales, fibras vegetales de la región (como residuos de café o guadua) y estructuras biológicas a nivel microscópico.\n\nIngeniería y Matemáticas: Medición de porosidad, espesores, defectos superficiales y análisis de fracturas en piezas o prototipos creados por los estudiantes.\n\nArte y Creatividad: Transformación de micrografías científicas en piezas visuales impactantes para comunicar descubrimientos en ferias de ciencia y divulgación.\n\n🚀 Impacto en los Jóvenes del Centro Sur de Caldas\nExploración de vanguardia: Acerca a los adolescentes a tecnologías de punta reservadas tradicionalmente para la industria avanzada y la investigación universitaria.\n\nPensamiento crítico: Fomenta la observación detallada y la formulación de hipótesis basadas en evidencias a microescala.\n\nVocación científica: Inspira tempranamente vocaciones hacia la nanotecnología, la ciencia de materiales y la ingeniería avanzada.",
+      "color": "#c8f03d",
+      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+      "icon": "🔧",
+      "name": "MICROSCOPIO DE BARRIDO ELECTRONICO",
+      "created": 1792114322697,
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mvaalhc9d98w.glb"
+    },
+    {
+      "id": "mvppl83iounx",
+      "color": "#c8f03d",
+      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+      "lineName": "CIENCIAS › Nanotecnología Caracterización",
+      "name": "MICROSCOPIO DE FUERZA ATOMICA",
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mvppl83iounx.glb",
+      "desc": "El microscopio de fuerza atómica (AFM) es un equipo que permite observar y caracterizar superficies a escala nanométrica mediante una punta extremadamente fina que detecta fuerzas entre los materiales. Facilita el estudio de la rugosidad, la textura y las propiedades de los materiales, acercando a los estudiantes al mundo de la nanotecnología.\nAplicación Práctica con Enfoque STEAM\nCiencia y Tecnología: Exploración de superficies y comprensión de las propiedades de los materiales a escala nanométrica, fortaleciendo el aprendizaje en física, química y nanotecnología.\nIngeniería y Matemáticas: Análisis de imágenes, medición de rugosidad, interpretación de datos y comparación de características superficiales para comprender el comportamiento de distintos materiales.\nArte y Creatividad: Visualización de estructuras microscópicas y creación de representaciones gráficas que conectan la ciencia con el diseño y la comunicación visual.\nImpacto en los Jóvenes del Centro Sur de Caldas\nExploración de vanguardia: Acerca a niños, niñas y adolescentes a tecnologías avanzadas de caracterización de materiales.\nPensamiento crítico: Promueve la observación detallada, el análisis de imágenes y la interpretación de resultados científicos.\nVocación científica: Despierta el interés por la nanotecnología, la ciencia de materiales y la ingeniería, impulsando proyectos de investigación e innovación con enfoque STEAM.",
+      "lineId": "munhku9siwkc",
+      "cat": "EQUIPO",
+      "hasGlb": true,
+      "icon": "🔧",
+      "created": 1793046497598
+    },
+    {
+      "cat": "EQUIPO",
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mvppqnera7zh.glb",
+      "created": 1793046750723,
+      "desc": "La mufla es un equipo de laboratorio que permite calentar materiales a temperaturas elevadas y controladas para procesos como la calcinación, el tratamiento térmico y el análisis de cambios físicos y químicos. Facilita el estudio de las propiedades de los materiales y el desarrollo de proyectos de investigación e innovación.\nAplicación Práctica con Enfoque STEAM\nCiencia y Tecnología: Comprensión de los cambios que experimentan los materiales al someterse a altas temperaturas, explorando sus propiedades físicas y químicas.\nIngeniería y Matemáticas: Control de variables como temperatura y tiempo, registro de datos y análisis de resultados para evaluar el comportamiento de diferentes materiales.\nArte y Creatividad: Exploración de cambios de color, textura y apariencia en materiales resistentes al calor, favoreciendo la creación y experimentación con nuevos productos.\nImpacto en los Jóvenes del Centro Sur de Caldas\nAprendizaje práctico: Acerca a niños, niñas y adolescentes a técnicas de laboratorio para el estudio y tratamiento de materiales.\nPensamiento crítico: Fomenta la observación, la formulación de hipótesis y el análisis de resultados experimentales.\nVocación científica: Motiva el desarrollo de proyectos de investigación en ciencia de materiales, química y aprovechamiento de recursos, promoviendo la innovación y el aprendizaje STEAM.",
+      "icon": "🔧",
+      "id": "mvppqnera7zh",
+      "lineName": "CIENCIAS › Nanotecnología Fabricación",
+      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+      "name": "MUFLA",
+      "hasGlb": true,
+      "lineId": "munhlchtdjql",
+      "color": "#c8f03d"
+    },
+    {
+      "lineId": "munhiqgld9b6",
+      "name": "ROTOEVAPORADOR",
+      "cat": "EQUIPO",
+      "hasGlb": true,
+      "color": "#3ca0c8",
+      "lineName": "CIENCIAS › Biotecnología Industrial",
+      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+      "id": "mvpq0qy47rqg",
+      "created": 1793047221868,
+      "desc": "El rotoevaporador es un equipo de laboratorio que permite separar y recuperar solventes mediante evaporación a baja presión y calentamiento controlado. Facilita la concentración de extractos y el estudio de sustancias obtenidas de recursos naturales, apoyando procesos de investigación y experimentación.\nAplicación Práctica con Enfoque STEAM\nCiencia y Tecnología: Comprensión de los procesos de evaporación, separación de mezclas y propiedades de las sustancias, aplicados a proyectos de química y biotecnología.\nIngeniería y Matemáticas: Control de variables como temperatura, presión y velocidad de rotación, junto con la medición de volúmenes y el análisis de resultados experimentales.\nArte y Creatividad: Exploración de pigmentos, aromas y extractos naturales como punto de partida para desarrollar productos e ideas innovadoras.\nImpacto en los Jóvenes del Centro Sur de Caldas\nAprendizaje práctico: Acerca a niños, niñas y adolescentes al uso de equipos especializados de laboratorio.\nPensamiento crítico: Promueve la formulación de preguntas, la experimentación y la interpretación de resultados.\nVocación científica: Motiva el desarrollo de proyectos de investigación relacionados con el aprovechamiento de recursos naturales, la química y la innovación, conectando el conocimiento científico con las necesidades del entorno.",
+      "icon": "🔧",
+      "glbUrl": "https://SEMILLERO2026.github.io/tallerscan/tool-explainer/viewer/models/mvpq0qy47rqg.glb"
+    },
+    {
+      "color": "#c8f03d",
+      "lineId": "munhku9siwkc",
+      "hasGlb": false,
+      "created": 1793047403344,
+      "name": "SPUTTERING",
+      "icon": "🔧",
+      "desc": "El sputtering utiliza plasma en condiciones de vacío para cubrir superficies con capas microscópicas de materiales, como metales o cerámicas. Funciona como un \"escudo o pincel atómico\" que permite modificar, proteger y funcionalizar superficies a nanoescala.\nAplicación Práctica con Enfoque STEAM\nCiencia y Tecnología: Comprensión de la física del plasma, la teoría del vacío y el comportamiento de la materia, acercando a los adolescentes a procesos de manufactura avanzada y nanotecnología.\nIngeniería y Matemáticas: Diseño de procesos y control de variables críticas (presión, potencia y tiempo), así como el cálculo de tasas de deposición, espesores de capa y análisis de datos experimentales.\nArte y Creatividad: Exploración de efectos ópticos, interferencias de luz y acabados estéticos coloridos en las superficies tratadas para su divulgación visual.\nImpacto en los Jóvenes del Centro Sur de Caldas\nExploración de vanguardia: Conecta a niños, niñas y adolescentes con equipos industriales de recubrimiento de películas delgadas.\nPensamiento crítico: Fomenta la experimentación controlada, la resolución de problemas técnicos y la comprensión de los procesos de fabricación modernos.\nVocación científica: Inspira tempranamente vocaciones hacia la ciencia de materiales, la microelectrónica y la ingeniería avanzada mediante la creación de prototipos reales.",
+      "cat": "EQUIPO",
+      "glbUrl": "",
+      "baseUrl": "https://semillero2026.github.io/tallerscan/tool-explainer/viewer/index.html",
+      "id": "mvpq4mz4ghj8",
+      "lineName": "CIENCIAS › Nanotecnología Caracterización"
     }
   ],
   "lines": [
@@ -38,83 +136,83 @@
       "id": "munh1f5v4jvy"
     },
     {
+      "desc": "",
       "icon": "🏭",
       "name": "TECNOLOGÍAS",
-      "id": "munh1wpi6o1b",
       "color": "#3de0f0",
-      "desc": ""
+      "id": "munh1wpi6o1b"
     },
     {
-      "icon": "📁",
       "name": "Biotecnología Industrial",
-      "parentId": "munh1f5v4jvy",
-      "color": "#3de0f0",
-      "id": "munhiqgld9b6",
-      "desc": ""
-    },
-    {
-      "icon": "📁",
-      "name": "Biotecnología Animal",
       "color": "#3de0f0",
       "desc": "",
-      "id": "munhj6rief7c",
+      "id": "munhiqgld9b6",
+      "icon": "📁",
       "parentId": "munh1f5v4jvy"
     },
     {
-      "id": "munhjmzq7vkh",
-      "desc": "",
-      "parentId": "munh1f5v4jvy",
       "color": "#3de0f0",
+      "parentId": "munh1f5v4jvy",
       "icon": "📁",
-      "name": "Biotecnología Vegetal"
+      "id": "munhj6rief7c",
+      "desc": "",
+      "name": "Biotecnología Animal"
     },
     {
-      "icon": "📁",
-      "name": "STEAM Ciencias Básicas",
-      "color": "#3de0f0",
+      "name": "Biotecnología Vegetal",
       "desc": "",
       "parentId": "munh1f5v4jvy",
-      "id": "munhk4onhq3h"
+      "icon": "📁",
+      "id": "munhjmzq7vkh",
+      "color": "#3de0f0"
+    },
+    {
+      "id": "munhk4onhq3h",
+      "color": "#3de0f0",
+      "parentId": "munh1f5v4jvy",
+      "icon": "📁",
+      "desc": "",
+      "name": "STEAM Ciencias Básicas"
     },
     {
       "id": "munhku9siwkc",
       "parentId": "munh1f5v4jvy",
+      "color": "#3de0f0",
       "name": "Nanotecnología Caracterización",
       "icon": "📁",
-      "desc": "",
-      "color": "#3de0f0"
+      "desc": ""
     },
     {
-      "parentId": "munh1f5v4jvy",
-      "desc": "",
-      "color": "#3de0f0",
-      "icon": "📁",
       "name": "Nanotecnología Fabricación",
-      "id": "munhlchtdjql"
+      "color": "#3de0f0",
+      "id": "munhlchtdjql",
+      "desc": "",
+      "parentId": "munh1f5v4jvy",
+      "icon": "📁"
     },
     {
-      "desc": "",
-      "color": "#3de0f0",
-      "parentId": "munh1wpi6o1b",
       "id": "munhm2uyr8zv",
+      "name": "Ingeniería y Diseño",
+      "color": "#3de0f0",
       "icon": "📁",
-      "name": "Ingeniería y Diseño"
+      "parentId": "munh1wpi6o1b",
+      "desc": ""
     },
     {
-      "id": "munhmir7nhlo",
-      "desc": "",
       "color": "#3de0f0",
-      "name": "Electrónica y Telecomunicaciones",
+      "desc": "",
       "icon": "📁",
+      "id": "munhmir7nhlo",
+      "name": "Electrónica y Telecomunicaciones",
       "parentId": "munh1wpi6o1b"
     },
     {
-      "icon": "📁",
-      "name": "Tecnologías Virtuales",
-      "parentId": "munh1wpi6o1b",
       "desc": "",
+      "color": "#3de0f0",
+      "icon": "📁",
       "id": "munhn5ok6ez7",
-      "color": "#3de0f0"
+      "name": "Tecnologías Virtuales",
+      "parentId": "munh1wpi6o1b"
     }
   ]
 }
